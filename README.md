@@ -131,12 +131,3 @@ app/
 └── Helpers/
     └── avatar_helper.php
 ```
-
-## Desarrollo
-
-Para contribuir al proyecto:
-
-1. Fork el repositorio
-2. Crea una rama para tu feature
-3. Realiza tus cambios
-4. Envía un pull request
