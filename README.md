@@ -22,8 +22,7 @@ Un sistema de autenticación y gestión de usuarios desarrollado con CodeIgniter
 
 ### 1. Clonar el proyecto
 ```bash
-git clone [tu-repositorio]
-cd Myapp
+git clone https://github.com/Juan1Fabian/Myapp.git
 ```
 
 ### 2. Instalar dependencias
